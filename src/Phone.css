@@ -1,0 +1,12 @@
+  .Home{
+    background-color: #E92A28;
+  }
+  .Center {
+    border: 5px outset;
+            border-color: #f5bd1f blue;
+            text-align: center;
+        }
+        .font{
+  font-family: Helvetica Neue, sans-serif;
+
+        }

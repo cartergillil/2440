@@ -1,0 +1,22 @@
+ body {
+        background-color: #C58940;
+
+ }
+  .Home{
+    background-color: #FAF8F1;
+  }
+  .Center {
+    border: 5px outset;
+            border-color: #FAEAB1 ;
+            text-align: center;
+        }
+       .img {
+ filter: drop-shadow(5px 5px 5px #952323);
+}
+.img2 {
+ filter: drop-shadow(150px 150px 150px #952323);
+}
+.font{
+  font-family: Helvetica Neue, sans-serif;
+
+        }
